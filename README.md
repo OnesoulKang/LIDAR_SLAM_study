@@ -1,15 +1,15 @@
 # LIDAR_SLAM_study
-
-Environment
-
+ENVIRONMENT
+-----
 Ubuntu 18.04
 ROS melodic
 
 DEPENDENCY
-
+-------------
 See package.xml
 
 REFERENCE
+-------------
 [Make a Mobile Robot](http://gazebosim.org/tutorials/?tut=build_robot)
 
 [Gazebo plugins in ROS](http://gazebosim.org/tutorials?tut=ros_gzplugins)
