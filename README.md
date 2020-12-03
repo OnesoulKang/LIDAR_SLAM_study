@@ -22,3 +22,5 @@ REFERENCE
 [Gazebo plugins in ROS](http://gazebosim.org/tutorials?tut=ros_gzplugins)
 
 [https://www.youtube.com/watch?v=GvilxcePD64&ab_channel=TheConstruct](https://www.youtube.com/watch?v=GvilxcePD64&ab_channel=TheConstruct)
+
+[Point Cloud Library](https://pcl.readthedocs.io/projects/tutorials/en/latest/index.html)
