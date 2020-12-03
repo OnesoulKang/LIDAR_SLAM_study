@@ -207,3 +207,9 @@ include_directories(
 
 ## Add folders to be run by python nosetests
 # catkin_add_nosetests(test)
+
+add_executable(ICP_practice src/ICP_practice.cpp)
+target_link_libraries(ICP_practice ${catkin_LIBRARIES})  
+
+add_executable(save_pcd src/save_pcd.cpp)
+target_link_libraries(save_pcd ${catkin_LIBRARIES})  
