@@ -8,6 +8,13 @@ DEPENDENCY
 -------------
 See package.xml
 
+How
+-------
+~~~
+roslaunch ICP_practice model.launch
+rosrun ICP_practice laser2PC.py
+rosrun ICP_practics save_pcd
+~~~
 REFERENCE
 -------------
 [Make a Mobile Robot](http://gazebosim.org/tutorials/?tut=build_robot)
