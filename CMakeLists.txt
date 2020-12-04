@@ -212,4 +212,10 @@ add_executable(ICP_practice src/ICP_practice.cpp)
 target_link_libraries(ICP_practice ${catkin_LIBRARIES})  
 
 add_executable(save_pcd src/save_pcd.cpp)
-target_link_libraries(save_pcd ${catkin_LIBRARIES})  
+target_link_libraries(save_pcd ${catkin_LIBRARIES})
+
+add_executable(ICP_ros src/ICP_ros.cpp)
+target_link_libraries(ICP_ros ${catkin_LIBRARIES})
+
+add_executable(teleop src/teleop.cpp)
+target_link_libraries(teleop ${catkin_LIBRARIES})
